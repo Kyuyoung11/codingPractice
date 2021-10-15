@@ -5,3 +5,5 @@ https://programmers.co.kr/
 # Level 1 
 * [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) - 1_lotto.py
 * [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) - 1_numberstring.py
+* [내적](https://programmers.co.kr/learn/courses/30/lessons/70128) - 1_innerproduct.py
+* [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) - 1_plusminus.py
