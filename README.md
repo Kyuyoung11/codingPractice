@@ -15,3 +15,7 @@ https://programmers.co.kr/
 * [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) - 1_failstage.py
 * [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884) - 1_divisor.py
 * [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) - 1_trinary.py
+* [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) - 1_budget.py
+* [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) - 1_2016.py
+* [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491) - 1_rect.py
+* [상호 평가](https://programmers.co.kr/learn/courses/30/lessons/83201) - 1_score.py
