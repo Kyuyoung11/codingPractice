@@ -21,5 +21,5 @@ https://programmers.co.kr/
 * [상호 평가](https://programmers.co.kr/learn/courses/30/lessons/83201) - 1_score.py
 * [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) - 1_uniform.py
 * [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612) - 1_price.py
-* [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=python3)
+* [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=python3) - 1_middle.py
 * [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) - 1_samenum.py
