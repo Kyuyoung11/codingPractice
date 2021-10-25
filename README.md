@@ -32,3 +32,7 @@ https://programmers.co.kr/
 * [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) - 1_watermelon.py
 * [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925) - 1_stringconvert.py
 * [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) - 1_dividesum.py
+* [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) - 1_oddeven.py
+* [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) - 1_collatz.py
+* [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) - 1_average.py
+* [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) - 1_hidenum.py
