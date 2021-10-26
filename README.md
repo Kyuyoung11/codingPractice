@@ -36,3 +36,8 @@ https://programmers.co.kr/
 * [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) - 1_collatz.py
 * [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) - 1_average.py
 * [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) - 1_hidenum.py
+
+
+# Level 2
+* [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) - 2_stringsum.py
+* [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) - 2_chatroom.py
