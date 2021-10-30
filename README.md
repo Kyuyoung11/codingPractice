@@ -45,3 +45,5 @@ https://programmers.co.kr/
 * [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) - 2_124.py
 * [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) - 2_duration.py
 * [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) - 2_spicy.py
+* [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) - 2_distance.py
+* [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) - 2_phonecall.py
