@@ -47,3 +47,5 @@ https://programmers.co.kr/
 * [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) - 2_spicy.py
 * [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) - 2_distance.py
 * [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) - 2_phonecall.py
+* [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) - 2_printer.py
+* [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) - 2_biggestnum.py
