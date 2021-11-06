@@ -51,3 +51,5 @@ https://programmers.co.kr/
 * [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) - 2_biggestnum.py
 * [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) - 2_spy.py
 * [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) - 2_makenum.py
+* [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) - 2_stock.py
+* [모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512) - 2_aeiou.py
