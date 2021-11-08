@@ -55,3 +55,5 @@ https://programmers.co.kr/
 * [모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512) - 2_aeiou.py
 * [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) - 2_skilltree.py
 * [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909) - 2_bracket.py
+* [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) - 2_nextnum.py
+* [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) - 2_fibo.py
