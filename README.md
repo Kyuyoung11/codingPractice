@@ -36,6 +36,8 @@ https://programmers.co.kr/
 * [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) - 1_collatz.py
 * [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) - 1_average.py
 * [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) - 1_hidenum.py
+* [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) - 1_kim.py
+* [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) - 1_selectnum.py
 
 
 # Level 2
@@ -57,3 +59,4 @@ https://programmers.co.kr/
 * [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909) - 2_bracket.py
 * [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) - 2_nextnum.py
 * [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) - 2_fibo.py
+* [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) - 2_leastmulti.py
