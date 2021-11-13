@@ -38,6 +38,9 @@ https://programmers.co.kr/
 * [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) - 1_hidenum.py
 * [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) - 1_kim.py
 * [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) - 1_selectnum.py
+* [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389) - 1_remainder.py
+* [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) - 1_dividermultiple.py
+* [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) - 1_plusmatrix.py
 
 
 # Level 2
