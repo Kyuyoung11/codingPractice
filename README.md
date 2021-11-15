@@ -41,6 +41,7 @@ https://programmers.co.kr/
 * [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389) - 1_remainder.py
 * [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) - 1_dividermultiple.py
 * [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) - 1_plusmatrix.py
+* [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) - 1_primenumber.py
 
 
 # Level 2
