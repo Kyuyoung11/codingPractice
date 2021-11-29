@@ -42,6 +42,8 @@ https://programmers.co.kr/
 * [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) - 1_dividermultiple.py
 * [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) - 1_plusmatrix.py
 * [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) - 1_primenumber.py
+* [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) - 1_weirdstring.py
+* [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) - 1_sortstring.py
 
 
 # Level 2
