@@ -44,6 +44,8 @@ https://programmers.co.kr/
 * [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) - 1_primenumber.py
 * [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) - 1_weirdstring.py
 * [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) - 1_sortstring.py
+* [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) - 1_harshadnum.py
+* [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) - 1_stringpy.py
 
 
 # Level 2
