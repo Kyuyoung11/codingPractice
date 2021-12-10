@@ -69,3 +69,4 @@ https://programmers.co.kr/
 * [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) - 2_fibo.py
 * [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) - 2_leastmulti.py
 * [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) - 2_makeleast.py
+* [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) - 2_jaden.py
