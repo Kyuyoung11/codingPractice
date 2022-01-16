@@ -74,3 +74,4 @@ https://programmers.co.kr/
 * [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) - 2_delpair.py
 * [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) - 2_rotatearray.py
 * [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) - 2_menu.py
+* [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) - 2_rightbracket.py
