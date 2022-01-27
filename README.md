@@ -78,3 +78,4 @@ https://programmers.co.kr/
 * [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) - 2_newsclustering.py
 * [[카카오 인턴] 수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) - 2_maxcal.py
 * [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) - 2_tuple.py
+* [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) - 2_prime.py
