@@ -4,7 +4,7 @@ https://programmers.co.kr/
 
 # Level 1 
 
-|문제|코드|
+|문제||
 |------|-----|
 |[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|1_lotto.py, 1_lotto.java|
 |[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|1_numberstring.py|
@@ -54,7 +54,7 @@ https://programmers.co.kr/
 # Level 2
 
 |문제|코드|
-|------|---|---|
+|------|---|
 |[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|2_stringsum.py|
 |[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|2_chatroom.py|
 |[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)|2_square.py|
