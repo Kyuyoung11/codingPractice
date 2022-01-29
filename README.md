@@ -13,7 +13,7 @@ https://programmers.co.kr/
 |[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|1_crane.py|
 |[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)|1_notinnumber.py|
 |[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|1_player.py|
-|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|1_knumber.py|
+|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|1_knumber.py, 1_knumber.java|
 |[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|1_exam.py|
 |[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|1_failstage.py|
 |[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)|1_divisor.py|
