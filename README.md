@@ -12,7 +12,7 @@ https://programmers.co.kr/
 |[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|1_plusminus.py|
 |[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|1_crane.py|
 |[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)|1_notinnumber.py|
-|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|1_player.py|
+|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|1_player.py, 1_player.java|
 |[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|1_knumber.py, 1_knumber.java|
 |[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|1_exam.py|
 |[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|1_failstage.py|
@@ -45,7 +45,7 @@ https://programmers.co.kr/
 |[최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)|1_dividermultiple.py|
 |[행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)|1_plusmatrix.py|
 |[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)|1_primenumber.py|
-|[이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)|1_weirdstring.py|
+|[이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)|1_weirdstring.py, 1_weridstring.java|
 |[문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)|1_sortstring.py|
 |[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)|1_harshadnum.py|
 |[문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)|1_stringpy.py|
