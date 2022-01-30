@@ -10,7 +10,7 @@ https://programmers.co.kr/
 |[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|1_numberstring.py|
 |[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)|1_innerproduct.py|
 |[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|1_plusminus.py|
-|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|1_crane.py|
+|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|1_crane.py, 1_crane.java|
 |[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)|1_notinnumber.py|
 |[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|1_player.py, 1_player.java|
 |[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|1_knumber.py, 1_knumber.java|
@@ -40,7 +40,7 @@ https://programmers.co.kr/
 |[평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)|1_average.py|
 |[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)|1_hidenum.py|
 |[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)|1_kim.py|
-|[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|1_selectnum.py|
+|[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|1_selectnum.py, 1_selectnum.java|
 |[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)|1_remainder.py|
 |[최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)|1_dividermultiple.py|
 |[행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)|1_plusmatrix.py|
@@ -64,7 +64,7 @@ https://programmers.co.kr/
 |[거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)|2_distance.py|
 |[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|2_phonecall.py|
 |[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|2_printer.py|
-|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)|2_biggestnum.py|
+|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)|2_biggestnum.py, 2_biggestnum.java|
 |[위장](https://programmers.co.kr/learn/courses/30/lessons/42578)|2_spy.py|
 |[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|2_makenum.py|
 |[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|2_stock.py|
