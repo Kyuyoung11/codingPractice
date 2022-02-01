@@ -85,4 +85,4 @@ https://programmers.co.kr/
 |[[카카오 인턴] 수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)|2_maxcal.py|
 |[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)|2_tuple.py|
 |[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)|2_prime.py|
-|[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)|2_candidatekey.java|
+|[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)|[2_candidatekey.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_candidatekey.java)|
