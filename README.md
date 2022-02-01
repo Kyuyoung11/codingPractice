@@ -15,7 +15,7 @@ https://programmers.co.kr/
 |[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|1_player.py, 1_player.java|
 |[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|1_knumber.py, 1_knumber.java|
 |[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|1_exam.py|
-|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|1_failstage.py|
+|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|1_failstage.py, 1_failstage.java|
 |[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)|1_divisor.py|
 |[3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)|1_trinary.py|
 |[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|1_budget.py|
@@ -65,7 +65,7 @@ https://programmers.co.kr/
 |[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|2_phonecall.py|
 |[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|2_printer.py|
 |[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)|2_biggestnum.py, 2_biggestnum.java|
-|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578)|2_spy.py|
+|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578)|2_spy.py, 2_spy.java|
 |[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|2_makenum.py|
 |[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|2_stock.py|
 |[모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512)|2_aeiou.py|
@@ -85,3 +85,4 @@ https://programmers.co.kr/
 |[[카카오 인턴] 수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)|2_maxcal.py|
 |[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)|2_tuple.py|
 |[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)|2_prime.py|
+|[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)|2_candidatekey.java|
