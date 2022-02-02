@@ -66,7 +66,7 @@ https://programmers.co.kr/
 |[거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)|2_distance.py|
 |[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|2_phonecall.py|
 |[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|2_printer.py|
-|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)|2_biggestnum.py, 2_biggestnum.java|
+|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)|2_biggestnum.py, [2_biggestnum.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_biggestnum.java)|
 |[위장](https://programmers.co.kr/learn/courses/30/lessons/42578)|2_spy.py, 2_spy.java|
 |[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|2_makenum.py|
 |[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|2_stock.py|
