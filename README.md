@@ -58,7 +58,7 @@ https://programmers.co.kr/
 |문제|코드|
 |------|---|
 |[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|2_stringsum.py|
-|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|2_chatroom.py|
+|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|2_chatroom.py[2_chatroom.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_chatroom.java)|
 |[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)|2_square.py|
 |[124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)|2_124.py|
 |[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|2_duration.py|
@@ -88,3 +88,4 @@ https://programmers.co.kr/
 |[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)|2_tuple.py|
 |[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)|2_prime.py|
 |[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)|[2_candidatekey.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_candidatekey.java)|
+|[H-index](https://programmers.co.kr/learn/courses/30/lessons/42747)|[2_h-index.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_h-index.java)|
