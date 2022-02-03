@@ -4,7 +4,7 @@ https://programmers.co.kr/
 
 # Level 1 
 
-|문제||
+|문제|코드|
 |------|-----|
 |[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|[1_lotto.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level1/1_2016.py), [1_lotto.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level1/1_lotto.java)|
 |[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|[1_numberstring.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level1/1_numberstring.py)|
