@@ -62,7 +62,7 @@ https://programmers.co.kr/
 |[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)|2_square.py|
 |[124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)|2_124.py|
 |[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|2_duration.py|
-|[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)|2_spicy.py|
+|[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)|2_spicy.py, [2_scoville.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_scoville.java)|
 |[거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)|2_distance.py|
 |[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|2_phonecall.py|
 |[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|2_printer.py|
