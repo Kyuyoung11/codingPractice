@@ -100,3 +100,4 @@ https://programmers.co.kr/
 |문제|코드|
 |------|---|
 |[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|[3_network.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level3/3_network.java)|
+|[입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)|[3_immigration.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level3/3_immigration.py)|
