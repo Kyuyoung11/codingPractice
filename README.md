@@ -93,6 +93,7 @@ https://programmers.co.kr/
 |[이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)|[2_convert-bin.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_convert-bin.py)|
 |[n^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390)|[2_nn-array.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_nn-array.java)|
 |[영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)|[2_endtalk.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_endtalk.java)|
+|[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)|[2_truck.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_truck.py)|
 
 
 # Level 3
