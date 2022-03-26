@@ -103,3 +103,4 @@ https://programmers.co.kr/
 |[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|[3_network.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level3/3_network.java)|
 |[입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)|[3_immigration.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level3/3_immigration.py)|
 |[베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)|[3_immigration.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level3/3_bestalbum.py)|
+|[가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)|[3_farthest.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level3/3_farthest.java)|
