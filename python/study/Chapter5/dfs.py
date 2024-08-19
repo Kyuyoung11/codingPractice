@@ -32,6 +32,9 @@ def example_list() :
 #  2) 인접 노드를 스택에 삽입하고 방문 처리
 #  3) 인접 노드가 없으면 스택에서 최상단 노드를 꺼냄
 
+
+# 탐색 알고리즘 - DFS
+#  - DFS - 스택 + 재귀함수
 def dfs(graph, v, visited):
     # 1. 노드 방문 처리
     visited[v] = True
