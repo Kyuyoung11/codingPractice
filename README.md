@@ -95,7 +95,7 @@ https://programmers.co.kr/
 | [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)             | [2_endtalk.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_endtalk.java)                        |
 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)          | [2_truck.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_truck.py)                              |
 | [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)         | [2_땅따먹기.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_땅따먹기.java)                              |
-| [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | [2_연속된수열.py]((https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_연속된수열.py))                            |
+| [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | [2_연속된수열.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_연속된수열.py)                              |
 
 
 # Level 3
