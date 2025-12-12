@@ -98,6 +98,7 @@ https://programmers.co.kr/
 | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | [2_연속된수열.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_연속된수열.py)                              |
 | [숫자블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)         | [2_숫자블록.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_숫자블록.py)                                |
 | [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)| [2_혼자놀기.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_혼자놀기.py)                                |
+| [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)| [2_우박수열.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_우박수열.py)                                |
 
 
 # Level 3
