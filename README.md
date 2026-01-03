@@ -55,50 +55,51 @@ https://programmers.co.kr/
 
 # Level 2
 
-| 문제                                                                              | 코드                                                                                                                           |
-|---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
-| [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)              | 2_stringsum.py                                                                                                               |
-| [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)               | 2_chatroom.py, [2_chatroom.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_chatroom.java)       |
-| [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)             | 2_square.py                                                                                                                  |
-| [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)          | 2_124.py                                                                                                                     |
-| [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)                | 2_duration.py                                                                                                                |
-| [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)                | 2_spicy.py, [2_scoville.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_scoville.java)          |
-| [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)           | 2_distance.py                                                                                                                |
-| [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)             | 2_phonecall.py                                                                                                               |
-| [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)                 | 2_printer.py                                                                                                                 |
-| [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)              | 2_biggestnum.py, [2_biggestnum.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_biggestnum.java) |
-| [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)                  | 2_spy.py, 2_spy.java                                                                                                         |
-| [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)             | 2_makenum.py                                                                                                                 |
-| [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)                | 2_stock.py                                                                                                                   |
-| [모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512)               | 2_aeiou.py                                                                                                                   |
-| [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)                | 2_skilltree.py                                                                                                               |
-| [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)              | 2_bracket.py                                                                                                                 |
-| [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)             | 2_nextnum.py                                                                                                                 |
-| [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)              | 2_fibo.py                                                                                                                    |
-| [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)           | 2_leastmulti.py                                                                                                              |
-| [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)             | 2_makeleast.py                                                                                                               |
-| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)   | 2_jaden.py                                                                                                                   |
-| [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)               | 2_target.py                                                                                                                  |
-| [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)            | 2_delpair.py                                                                                                                 |
-| [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)         | 2_rotatearray.py                                                                                                             |
-| [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)              | 2_menu.py                                                                                                                    |
-| [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)               | 2_rightbracket.py                                                                                                            |
-| [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)       | 2_newsclustering.py                                                                                                          |
-| [[카카오 인턴] 수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)     | 2_maxcal.py                                                                                                                  |
-| [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)                  | 2_tuple.py                                                                                                                   |
-| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)               | 2_prime.py                                                                                                                   |
-| [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)                 | [2_candidatekey.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_candidatekey.java)              |
-| [H-index](https://programmers.co.kr/learn/courses/30/lessons/42747)             | [2_h-index.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_h-index.java)                        |
-| [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)             | [2_rotate-bracket.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_rotate-bracket.java)          |
-| [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)          | [2_convert-bin.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_convert-bin.py)                  |
-| [n^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390)          | [2_nn-array.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_nn-array.java)                      |
-| [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)             | [2_endtalk.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_endtalk.java)                        |
-| [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)          | [2_truck.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_truck.py)                              |
-| [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)         | [2_땅따먹기.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_땅따먹기.java)                              |
+| 문제                                                                               | 코드                                                                                                                           |
+|----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)               | 2_stringsum.py                                                                                                               |
+| [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)                | 2_chatroom.py, [2_chatroom.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_chatroom.java)       |
+| [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)              | 2_square.py                                                                                                                  |
+| [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)           | 2_124.py                                                                                                                     |
+| [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)                 | 2_duration.py                                                                                                                |
+| [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)                 | 2_spicy.py, [2_scoville.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_scoville.java)          |
+| [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)            | 2_distance.py                                                                                                                |
+| [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)              | 2_phonecall.py                                                                                                               |
+| [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)                  | 2_printer.py                                                                                                                 |
+| [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)               | 2_biggestnum.py, [2_biggestnum.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_biggestnum.java) |
+| [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)                   | 2_spy.py, 2_spy.java                                                                                                         |
+| [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)              | 2_makenum.py                                                                                                                 |
+| [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)                 | 2_stock.py                                                                                                                   |
+| [모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512)                | 2_aeiou.py                                                                                                                   |
+| [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)                 | 2_skilltree.py                                                                                                               |
+| [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)               | 2_bracket.py                                                                                                                 |
+| [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)              | 2_nextnum.py                                                                                                                 |
+| [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)               | 2_fibo.py                                                                                                                    |
+| [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)            | 2_leastmulti.py                                                                                                              |
+| [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)              | 2_makeleast.py                                                                                                               |
+| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)    | 2_jaden.py                                                                                                                   |
+| [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)                | 2_target.py                                                                                                                  |
+| [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)             | 2_delpair.py                                                                                                                 |
+| [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)          | 2_rotatearray.py                                                                                                             |
+| [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)               | 2_menu.py                                                                                                                    |
+| [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)                | 2_rightbracket.py                                                                                                            |
+| [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)        | 2_newsclustering.py                                                                                                          |
+| [[카카오 인턴] 수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)      | 2_maxcal.py                                                                                                                  |
+| [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)                   | 2_tuple.py                                                                                                                   |
+| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)                | 2_prime.py                                                                                                                   |
+| [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)                  | [2_candidatekey.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_candidatekey.java)              |
+| [H-index](https://programmers.co.kr/learn/courses/30/lessons/42747)              | [2_h-index.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_h-index.java)                        |
+| [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)              | [2_rotate-bracket.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_rotate-bracket.java)          |
+| [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)           | [2_convert-bin.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_convert-bin.py)                  |
+| [n^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390)           | [2_nn-array.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_nn-array.java)                      |
+| [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)              | [2_endtalk.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_endtalk.java)                        |
+| [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)           | [2_truck.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_truck.py)                              |
+| [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)          | [2_땅따먹기.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level2/2_땅따먹기.java)                              |
 | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | [2_연속된수열.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_연속된수열.py)                              |
-| [숫자블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)         | [2_숫자블록.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_숫자블록.py)                                |
-| [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)| [2_혼자놀기.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_혼자놀기.py)                                |
-| [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)| [2_우박수열.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_우박수열.py)                                |
+| [숫자블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)          | [2_숫자블록.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_숫자블록.py)                                |
+| [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)    | [2_혼자놀기.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_혼자놀기.py)                                |
+| [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)     | [2_우박수열.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_우박수열.py)                                |
+| [석유시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)         | [2_석유시추.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_석유시추.py)                                |
 
 
 # Level 3
