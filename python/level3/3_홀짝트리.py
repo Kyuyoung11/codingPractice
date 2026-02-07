@@ -1,4 +1,6 @@
-# (수정중)
+#시간초과 뜸
+
+import copy
 
 def getTreeType(rootNode, childNodeCnt):
     #홀짝 -> 1
@@ -16,50 +18,63 @@ def getTreeType(rootNode, childNodeCnt):
         else:
             return 1
 
-def makeTree(rootNode, nodes, edges, visited, treeType):
-    # print('makeTree', rootNode, visited, treeType)
-    if(treeType == -1):
-        return treeType
 
-    visited[rootNode]=True
+def makeTree(nodes, edges):
+    treeDict = {node: [] for node in nodes}
 
-    childNodes = []
     for edge in edges:
-        if(edge[0] == rootNode and visited[edge[1]] == False):
-            childNodes.append(edge[1])
-        elif(edge[1] == rootNode and visited[edge[0]] == False):
-            childNodes.append(edge[0])
+        treeDict[edge[0]].append(edge[1])
+        treeDict[edge[1]].append(edge[0])
+
+    return treeDict
 
 
-    newTreeType = getTreeType(rootNode, len(childNodes))
-    # print(childNodes, newTreeType)
-    if(treeType > 0 and treeType!=newTreeType):
-        return -1
+def makeTreeType(treeDict):
+    treeTypeDict = {}
 
-    for childNode in childNodes:
-        return makeTree(childNode, nodes, edges, visited, newTreeType)
+    for key, val in treeDict.items():
+        treeTypeDict[key] = getTreeType(key, len(val))
 
-    if(len(childNodes) == 0):
-        return newTreeType
+    return treeTypeDict
 
-    return -1
+
+def validTree(treeDict, rootNode):
+
+    copyTreeDict = copy.deepcopy(treeDict)
+    # print("validTree", rootNode)
+
+    queue = [rootNode]
+
+    while(len(queue) > 0):
+        node = queue.pop()
+        nodeType = getTreeType(node, len(copyTreeDict[node]))
+
+        # print(node, copyTreeDict[node], nodeType)
+
+        for childNode in copyTreeDict[node]:
+            if(node in copyTreeDict[childNode]):
+                copyTreeDict[childNode].remove(node)
+
+            if(nodeType != getTreeType(childNode, len(copyTreeDict[childNode]))):
+                return False
+
+            queue.append(childNode)
+    return True
+
+
 
 
 def solution(nodes, edges):
-    answer = []
+    answer = [0,0]
 
+    treeDict = makeTree(nodes, edges)
 
-    treeCnt = 0
-    reverseTreeCnt = 0
     for n in nodes:
-        visited = {node: False for node in nodes}
-        treeType = makeTree(n, nodes, edges, visited, 0)
-        # print(treeType, 'treeType')
-        if(treeType == 1):
-            treeCnt+=1
-        elif(treeType == 2):
-            reverseTreeCnt +=1
+        isTree = validTree(treeDict, n)
+        if(isTree):
+            if(getTreeType(n, len(treeDict[n]))==1):
+                answer[0]+=1
+            else:
+                answer[1]+=1
 
-    answer.append(treeCnt)
-    answer.append(reverseTreeCnt)
     return answer
