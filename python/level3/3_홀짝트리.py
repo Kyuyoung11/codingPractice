@@ -1,25 +1,16 @@
-#시간초과 뜸
+from collections import deque
 
-import copy
-
-def getTreeType(rootNode, childNodeCnt):
+def get_tree_type(rootNode, childNodeCnt):
     #홀짝 -> 1
     #역홀짝 -> 2
     #해당 x -> -1
-    if(rootNode%2 == 0): #짝
-        if(childNodeCnt%2 ==0): #짝
-            return 1
-        else:
-            return 2
+    if(rootNode%2 == childNodeCnt%2):
+        return 1
 
-    else: #홀
-        if(childNodeCnt%2 ==0): #짝
-            return 2
-        else:
-            return 1
+    return 2
 
 
-def makeTree(nodes, edges):
+def make_tree(nodes, edges):
     treeDict = {node: [] for node in nodes}
 
     for edge in edges:
@@ -29,52 +20,55 @@ def makeTree(nodes, edges):
     return treeDict
 
 
-def makeTreeType(treeDict):
+def make_tree_type(treeDict):
     treeTypeDict = {}
 
     for key, val in treeDict.items():
-        treeTypeDict[key] = getTreeType(key, len(val))
+        treeTypeDict[key] = get_tree_type(key, len(val)-1)  #루트노드가 아닌 경우, childNodeCnt -1 해야함
 
     return treeTypeDict
-
-
-def validTree(treeDict, rootNode):
-
-    copyTreeDict = copy.deepcopy(treeDict)
-    # print("validTree", rootNode)
-
-    queue = [rootNode]
-
-    while(len(queue) > 0):
-        node = queue.pop()
-        nodeType = getTreeType(node, len(copyTreeDict[node]))
-
-        # print(node, copyTreeDict[node], nodeType)
-
-        for childNode in copyTreeDict[node]:
-            if(node in copyTreeDict[childNode]):
-                copyTreeDict[childNode].remove(node)
-
-            if(nodeType != getTreeType(childNode, len(copyTreeDict[childNode]))):
-                return False
-
-            queue.append(childNode)
-    return True
-
 
 
 
 def solution(nodes, edges):
     answer = [0,0]
 
-    treeDict = makeTree(nodes, edges)
+    treeDict = make_tree(nodes, edges)
+    treeTypeDict = make_tree_type(treeDict)
+    visited = {node: False for node in nodes}
 
     for n in nodes:
-        isTree = validTree(treeDict, n)
-        if(isTree):
-            if(getTreeType(n, len(treeDict[n]))==1):
-                answer[0]+=1
-            else:
-                answer[1]+=1
+        if not visited[n]:
+            #트리 만들기
+            tree_nodes = []
+            queue = deque([n])
+            visited[n] = True
+
+            while queue:
+                curNode = queue.popleft()
+                tree_nodes.append(curNode)
+                for childNode in treeDict[curNode]:
+                    if not visited[childNode]:
+                        visited[childNode] = True
+                        queue.append(childNode)
+
+            #루트노드 설정 후 확인
+            for rootNode in tree_nodes:
+                result = True
+                rootNodeType = get_tree_type(rootNode, len(treeDict[rootNode]))
+                for childNode in tree_nodes:
+                    if(rootNode == childNode): continue
+                    if(rootNodeType != treeTypeDict[childNode]):
+                        result=False
+                        break
+
+                if(result):
+                    if(rootNodeType==1):
+                        answer[0]+=1
+                    elif(rootNodeType==2):
+                        answer[1]+=1
+
+
+
 
     return answer
