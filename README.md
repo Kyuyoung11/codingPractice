@@ -103,7 +103,8 @@ https://programmers.co.kr/
 | [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)        | [2_행렬의곱셈.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_행렬의곱셈.py)                              |
 | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)  | [2_택배배달.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_택배배달.py)                                |
 | [줄서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936)        | [2_줄서는방법.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_줄서는방법.py)                              |
-| [퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)    | [2_퍼즐게임.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_퍼즐게임.py)                               |
+| [퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)    | [2_퍼즐게임.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_퍼즐게임.py)                                |
+| [바이러스 파이프](https://school.programmers.co.kr/learn/courses/30/lessons/468373)    | [2_바이러스.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_바이러스.py)                                |
 
 
 # Level 3
