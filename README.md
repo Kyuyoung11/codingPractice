@@ -1,8 +1,8 @@
 # codingPractice - 코딩 문제 풀이
-프로그래머스 문제 풀이
+## 프로그래머스 문제 풀이
 https://programmers.co.kr/
 
-# Level 1 
+### Level 1 
 
 |문제|코드|
 |------|-----|
@@ -51,9 +51,7 @@ https://programmers.co.kr/
 |[문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)|1_stringpy.py|
 
 
-
-
-# Level 2
+### Level 2
 
 | 문제                                                                               | 코드                                                                                                                           |
 |----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
@@ -108,7 +106,7 @@ https://programmers.co.kr/
 | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)      | [2_과제진행.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level2/2_과제진행.py)                                |
 
 
-# Level 3
+### Level 3
 
 | 문제                                                                  | 코드                                                                                                                |
 |---------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
@@ -117,3 +115,18 @@ https://programmers.co.kr/
 | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)   | [3_immigration.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level3/3_bestalbum.py)         |
 | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | [3_farthest-node.java](https://github.com/Kyuyoung11/codingPractice/blob/master/java/level3/3_farthest-node.java) |
 | [홀짝트리](https://school.programmers.co.kr/learn/courses/30/lessons/388354)    | [3_홀짝트리.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/level3/3_홀짝트리.py)                     |
+
+
+---
+## 백준
+
+### 실버
+
+| 문제                                                     | 코드                                                                                                      |
+|--------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| [(1260)DFS와 BFS](https://www.acmicpc.net/problem/1260) | [1260_dfsbfs.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/silver/1260_dfsbfs.py) |
+
+### 골드
+| 문제                                                                    | 코드                                                                                              |
+|-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| [(7569)토마토](https://www.acmicpc.net/problem/7569) | [7569_토마토.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/gold/7569_토마토.py) |
