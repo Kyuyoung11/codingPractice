@@ -125,6 +125,7 @@ https://programmers.co.kr/
 | 문제                                                     | 코드                                                                                                      |
 |--------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | [(1260)DFS와 BFS](https://www.acmicpc.net/problem/1260) | [1260_dfsbfs.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/silver/1260_dfsbfs.py) |
+| [(1446)지름길](https://www.acmicpc.net/problem/1446)      | [1446_지름길.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/silver/1446_지름길.py) |
 
 ### 골드
 | 문제                                                                    | 코드                                                                                              |
