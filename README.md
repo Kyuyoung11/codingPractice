@@ -132,3 +132,9 @@ https://programmers.co.kr/
 | 문제                                                                    | 코드                                                                                              |
 |-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | [(7569)토마토](https://www.acmicpc.net/problem/7569) | [7569_토마토.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/gold/7569_토마토.py) |
+
+---
+## 코드트리
+| 문제                                             | 코드                                                                                                |
+|------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| [민트초코우유](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/mint-choco-milk/description) | [민트초코우유.py](https://github.com/Kyuyoung11/codingPractice/blob/master/python/codetree/민트초코우유.py) |
